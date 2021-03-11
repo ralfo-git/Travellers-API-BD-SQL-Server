@@ -1,0 +1,37 @@
+execute [Travellers].[spDestinations] null,'@TravelCode1','@Name1',1,'@LocationPlace',876502.89,'@Description'
+execute [Travellers].[spDestinations] null,'@TravelCode2','@Name2',34,'@LocationPlace',8765235.89,'@Description'
+execute [Travellers].[spDestinations] null,'@TravelCode3','@Name3',11,'@LocationPlace',87655.89,'@Description'
+execute [Travellers].[spDestinations] null,'@TravelCode4','@Name4',13,'@LocationPlace',87655.89,'@Description'
+execute [Travellers].[spDestinations] null,'@TravelCode5','@Name5',15,'@LocationPlace',87655.89,'@Description'
+execute [Travellers].[spDestinations] null,'@TravelCode6','@Name6',25,'@LocationPlace',87655.89,'@Description'
+execute [Travellers].[spDestinations] null,'@TravelCode7','@Name7',25,'@LocationPlace',87655.89,'@Description'
+execute [Travellers].[spDestinations] null,'@TravelCode8','@Name8',25,'@LocationPlace',87655.89,'@Description'
+execute [Travellers].[spDestinations] null,'@TravelCode9','@Name9',25,'@LocationPlace',87655.89,'@Description'
+execute [Travellers].[spDestinations] null,'@TravelCode10','@Name10',25,'@LocationPlace',87655.89,'@Description'
+execute [Travellers].[spDestinations] null,'@TravelCode11','@Name11',25,'@LocationPlace',87655.89,'@Description'
+execute [Travellers].[spDestinations] null,'@TravelCode12','@Name12',25,'@LocationPlace',87655.89,'@Description'
+execute [Travellers].[spDestinations] null,'@TravelCode13','@Name13',25,'@LocationPlace',87655.89,'@Description'
+execute [Travellers].[spDestinations] null,'@TravelCode14','@Name14',25,'@LocationPlace',87655.89,'@Description'
+execute [Travellers].[spDestinations] null,'@TravelCode15','@Name15',25,'@LocationPlace',87655.89,'@Description'
+execute [Travellers].[spDestinations] null,'@TravelCode16','@Name16',25,'@LocationPlace',87655.89,'@Description'
+execute [Travellers].[spDestinations] null,'@TravelCode17','@Name17',25,'@LocationPlace',87655.89,'@Description'
+execute [Travellers].[spDestinations] null,'@TravelCode18','@Name18',25,'@LocationPlace',87655.89,'@Description'
+execute [Travellers].[spDestinations] null,'@TravelCode19','@Name19',25,'@LocationPlace',87655.89,'@Description'
+execute [Travellers].[spDestinations] null,'@TravelCode20','@Name20',25,'@LocationPlace',87655.89,'@Description'
+execute [Travellers].[spDestinations] null,'@TravelCode21','@Name21',25,'@LocationPlace',87655.89,'@Description'
+execute [Travellers].[spDestinations] null,'@TravelCode22','@Name22',25,'@LocationPlace',87655.89,'@Description'
+execute [Travellers].[spDestinations] null,'@TravelCode23','@Name23',25,'@LocationPlace',87655.89,'@Description'
+execute [Travellers].[spDestinations] null,'@TravelCode24','@Name24',25,'@LocationPlace',87655.89,'@Description'
+execute [Travellers].[spDestinations] null,'@TravelCode25','@Name25',25,'@LocationPlace',87655.89,'@Description'
+execute [Travellers].[spDestinations] null,'@TravelCode26','@Name26',25,'@LocationPlace',87655.89,'@Description'
+execute [Travellers].[spDestinations] null,'@TravelCode27','@Name27',25,'@LocationPlace',87655.89,'@Description'
+execute [Travellers].[spDestinations] null,'@TravelCode28','@Name28',25,'@LocationPlace',87655.89,'@Description'
+execute [Travellers].[spDestinations] null,'@TravelCode29','@Name29',25,'@LocationPlace',87655.89,'@Description'
+execute [Travellers].[spDestinations] null,'@TravelCode30','@Name30',25,'@LocationPlace',87655.89,'@Description'
+execute [Travellers].[spDestinations] null,'@TravelCode31','@Name31',25,'@LocationPlace',87655.89,'@Description'
+
+select lower('BEST PRACTICES FOR  BUILDING RESTFUL WEB SERVICES')
+
+BestPracticesForBuildingRestfulWebServices
+
+
